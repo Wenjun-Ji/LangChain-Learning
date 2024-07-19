@@ -1,4 +1,4 @@
-# LangChain Learning
+# 🦜️🔗LangChain Learning
 
 这个仓库用来记录我的LangChain练习
 
