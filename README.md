@@ -20,3 +20,7 @@
 - [Chainlit](https://docs.chainlit.io): Chainlit is an open-source async Python framework which allows developers to build scalable Conversational AI or agentic applications.
 - [Literal AI](https://docs.getliteral.ai): Literal AI is the go-to LLM evaluation and observability platform built for Developers and Product Owners.
 
+## 实战演练
+
+- [Multi-Agent](https://github.com/Wenjun-Ji/Multi-Agent)：在这个LangChain项目，我基于Prompt和LangChain Agent构建了一个多功能聊天机器人，使用四个自定义工具：RAG、Chat、Search、Calculate。
+
